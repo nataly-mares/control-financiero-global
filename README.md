@@ -34,7 +34,7 @@ Open the file using Power BI
 Explore the visualizations and use the interactive filters by region and period
 Control Financiero Global 📊
 
-![Control Financiero Global](image/preview.png)
+![Control Financiero Global](Image/Captura%20de%20pantalla%202026-09-10%20a%20la(s)%200.04.50.png)
 
 
 # ✅ Descripción del proyecto
@@ -70,4 +70,4 @@ Descargar el archivo del repositorio
 Abrir el archivo utilizando Power BI
 Explorar las visualizaciones y utilizar los filtros interactivos por región y período
 
-![Control Financiero Global](image/preview.png)
+![Control Financiero Global](Image/Captura%20de%20pantalla%202026-09-10%20a%20la(s)%200.04.50.png)
